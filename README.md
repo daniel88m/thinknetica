@@ -1,1 +1,1 @@
-# thinknetica
+# Thinknetica RoR cource
